@@ -1,0 +1,16 @@
+{
+  "grills": {
+    "cooking_surface": "The size and material of the cooking surface, including its heat distribution and non-stick properties.",
+    "portability": "The ease of moving and transporting the griddle, including its weight, size, and any additional features like wheels or handles.",
+    "heat_control": "The ability to adjust and control the temperature of the griddle for different cooking needs, including even heat distribution and consistent cooking results.",
+    "durability": "The sturdiness and longevity of the griddle, including its materials, construction, and resistance to rust or corrosion.",
+    "accessories": "The additional items included in the bundle, such as the cover, side shelves, or other tools that enhance the griddle's functionality and convenience."
+  },
+  "lawn_movers": {
+    "cutting_performance": "The ability of the lawn mower to effectively cut grass with precision and consistency.",
+    "ease_of_use": "How user-friendly and convenient the lawn mower is to operate, including features like self-propulsion and easy start.",
+    "durability": "The longevity and sturdiness of the lawn mower, including the quality of materials used in its construction.",
+    "engine_power": "The strength and performance of the engine in powering the lawn mower for efficient cutting.",
+    "maneuverability": "How easily the lawn mower can navigate around obstacles and tight spaces in the yard."
+  }
+}

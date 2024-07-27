@@ -1,0 +1,42 @@
+[
+  {
+    "product_id": "5519945",
+    "product_title": "Toro Recycler 21-in Gas Self-propelled Lawn Mower with 140-cc Briggs and Stratton Engine",
+    "product_image": "https://mobileimages.lowes.com/productimages/f94bc9a9-5609-4c7c-9a57-054db6b1bf9a/65712550.png?size=xl",
+    "number_of_reviews": 1740,
+    "product_category": "lawn_movers",
+    "product_price": "$419.00"
+  },
+  {
+    "product_id": "5188090",
+    "product_title": "Blackstone 36\" Culinary Omnivore Griddle with Side Table 4-Burner Liquid Propane Flat Top Grill",
+    "product_image": "https://mobileimages.lowes.com/productimages/84758fb7-6df2-4675-8b4f-d2974fa09bc6/66555286.png?size=mpdhi",
+    "number_of_reviews": 1200,
+    "product_category": "grills",
+    "product_price": "$629.00"
+  },
+  {
+    "product_id": "5644628",
+    "product_title": "Blackstone 28\" Griddle and Cover Bundle 2-Burner Liquid Propane Flat Top Grill",
+    "product_image": "https://mobileimages.lowes.com/productimages/9d8c559e-e408-48fe-b85d-073f2c88e294/67185708.jpeg?size=pdhism",
+    "number_of_reviews": 1020,
+    "product_category": "grills",
+    "product_price": "$248.00"
+  },
+  {
+    "product_id": "2564385",
+    "product_title": "Pit Boss Pro Series 850-Sq in Hammertone Pellet Grill with smart compatibility",
+    "product_image": "https://mobileimages.lowes.com/productimages/4c402b2f-2c63-4aee-9605-ce6fcc3894bf/15847107.png?size=pdhism",
+    "number_of_reviews": 1280,
+    "product_category": "grills",
+    "product_price": "$629.00"
+  },
+  {
+    "product_id": "2582823",
+    "product_title": "Blackstone 36\" Culinary Griddle with Hood 4-Burner Liquid Propane Flat Top Grill",
+    "product_image": "https://mobileimages.lowes.com/productimages/c6fce411-41c3-4879-b402-7fc6c7ffe08f/67037864.png?size=mpdhi",
+    "number_of_reviews": 2220,
+    "product_category": "grills",
+    "product_price": "$499.00"
+  }
+]
